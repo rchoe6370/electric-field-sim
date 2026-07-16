@@ -2,6 +2,10 @@
 
 An interactive electrostatics visualizer built in MATLAB. Place positive and negative point charges on a canvas and watch field lines trace in real time as you add, move, and adjust them. 
 
+![Screenshot 1](Screenshots/Screenshot1.png)
+
+![Screenshot 2](Screenshots/Screenshot2.png)
+
 ## Controls
 
 | Control | Effect |
